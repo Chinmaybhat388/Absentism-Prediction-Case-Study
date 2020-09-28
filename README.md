@@ -24,3 +24,9 @@ rest of the values found in this column.
 4 : Doctorate
 
 The model has been coverted into a module for future use.
+
+The repository consists of 4 files :
+- 1. Absenteeism_classification - Data Preprocessing and EDA
+- 2. Absenteeism_LR_model - The machine learning model
+- 3. LogReg_Absent_Module - The model and preprocessing converted into a module for deployment.
+- 4. EndUSer_Absenteeism - Prediction on new data.
